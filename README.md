@@ -14,6 +14,12 @@ Add the following files manually:
 * The gold standard as  `gold_standard.ttl`
 * the Test dataset as `test_benchmark.ttl`
 
+### Execte init.sh
+
+```
+./init.sh
+```
+
 ## Eval
 
 
