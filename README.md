@@ -23,6 +23,7 @@ Add the following files manually:
 
 ## Eval
 
+Will also print the MacroF1 measure and if it sover 0.3 to change the Threshold edit the eval.sh script
 
 ```
 ./eval.sh student_submission.ttl 
@@ -32,6 +33,8 @@ the output will be at `student_submission.ttl_result.tsv`
 
 
 ## Eval in Bulk
+
+Will also print the MacroF1 measure and if it sover 0.3 to change the Threshold edit the eval.sh script
 
 Assuming you have a folder with all submissions called `/path/to/submissions`
 
